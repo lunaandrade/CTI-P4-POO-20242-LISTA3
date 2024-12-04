@@ -41,3 +41,8 @@ Esses exercícios têm como objetivo proporcionar uma compreensão sólida dos p
 2. Uma janela de diálogo será aberta. Nessa janela, você pode preencher o nome da sua classe e outras opções:
     - Certifique-se de ativar a opção public static void main(String[] args).
 3. Copie apenas o código dentro das pastas de cada questão, e adicione dentro da classe que você criou.
+
+## **🤝 Como Contribuir**
+
+Se você deseja contribuir para este projeto, siga o tutorial abaixo para aprender a fazer um **fork** e enviar um **pull request** no GitHub:  
+[📹 Tutorial no YouTube](https://www.youtube.com/watch?v=b32O0dJkUHE)
